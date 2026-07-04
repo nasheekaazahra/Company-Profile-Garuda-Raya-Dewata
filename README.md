@@ -29,14 +29,6 @@ Garuda Raya Dewata is a modern company profile website built to present business
 
 ---
 
-## 🎥 Preview
-
-<p align="center">
-  <img src="assets/demo.gif" width="100%">
-</p>
-
----
-
 ## Highlights
 
 - Modern landing page
@@ -74,7 +66,7 @@ Garuda Raya Dewata is a modern company profile website built to present business
 
 <div align="center">
 
-Made with ❤️ by **Nasheeka Azahra**
+Made by **Nasheeka Azahra**
 
 ⭐ If you enjoyed this project, consider giving it a star.
 
